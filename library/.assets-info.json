@@ -1,0 +1,58 @@
+{
+  "/Users/prajwal/PopUpManager/assets/Scenes.meta": {
+    "time": 1651409145468.048
+  },
+  "/Users/prajwal/PopUpManager/assets/Scenes": {
+    "time": 1651409172310.3105,
+    "uuid": "03086fbc-ea0e-4743-abde-3f2b84574cc0",
+    "missing": false
+  },
+  "/Users/prajwal/PopUpManager/assets/Scripts.meta": {
+    "time": 1651409151469.2793
+  },
+  "/Users/prajwal/PopUpManager/assets/Scripts": {
+    "time": 1651409452417.3862,
+    "uuid": "bccf4d58-05c0-4ae9-9882-0f9ec13019e2",
+    "missing": false
+  },
+  "/Users/prajwal/PopUpManager/assets/Scenes/Main.scene.meta": {
+    "time": 1651409172318.5203
+  },
+  "/Users/prajwal/PopUpManager/assets/Scenes/Main.scene": {
+    "time": 1651413707726.6206,
+    "uuid": "9537d83a-9c2e-4979-be6d-b0b29885477c",
+    "missing": false
+  },
+  "/Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.meta": {
+    "time": 1651409224469.8003
+  },
+  "/Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts": {
+    "time": 1651413613002.4375,
+    "uuid": "4b8bcad8-6784-448a-b5cf-8bb1ecc71228",
+    "missing": false
+  },
+  "/Users/prajwal/PopUpManager/assets/Scripts/popupdata.json.meta": {
+    "time": 1651409452425.7888
+  },
+  "/Users/prajwal/PopUpManager/assets/Scripts/popupdata.json": {
+    "time": 1651411999133.747,
+    "uuid": "2bcaaf4e-6dd8-4839-a7a3-76428501f1a0",
+    "missing": false
+  },
+  "/Users/prajwal/PopUpManager/assets/Textures.meta": {
+    "time": 1651411343945.7183
+  },
+  "/Users/prajwal/PopUpManager/assets/Textures": {
+    "time": 1651411346368.5288,
+    "uuid": "ed40ba09-750c-4250-a5e9-adffd23e0dcb",
+    "missing": false
+  },
+  "/Users/prajwal/PopUpManager/assets/Textures/white.jpg.meta": {
+    "time": 1651411287083.0974
+  },
+  "/Users/prajwal/PopUpManager/assets/Textures/white.jpg": {
+    "time": 1651411272434.218,
+    "uuid": "e16dfad9-6049-4a07-af58-c190a0140594",
+    "missing": false
+  }
+}

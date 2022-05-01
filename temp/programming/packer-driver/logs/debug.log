@@ -1,0 +1,892 @@
+debug: Sun, 01 May 2022 12:44:21 GMT
+debug: Project: /Users/prajwal/PopUpManager
+debug: Targets: editor,preview
+debug: Packer deriver version file lost or format incorrect: Error: ENOENT: no such file or directory, open '/Users/prajwal/PopUpManager/temp/programming/packer-driver/VERSION'
+debug: Clearing out the targets...
+debug: Engine path: /Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/resources/3d/engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Module record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/prajwal/PopUpManager/temp/programming/packer-driver/targets/editor/modules.json'
+debug: Loading cache costs 0.35795899998629466ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Module record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/prajwal/PopUpManager/temp/programming/packer-driver/targets/preview/modules.json'
+debug: Loading cache costs 0.37224999998579733ms.
+debug: Sync engine features: 2d,3d,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,spine,terrain,tiled-map,tween,ui,video,webview
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 2.8174589999835007ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 0
+Feature changed: false
+debug: Target(editor) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Target(editor) ends with cost 102.27679199998965ms.
+debug: Target(preview) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-ammo from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-ammo.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/wait-for-ammo-instantiation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/wait-for-ammo-instantiation.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Target(preview) ends with cost 91.04562499999884ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:30:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:32:54 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 69.4761249999865ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:30:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:32:54 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 43.07429200003389ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:32:54 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:36:42 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:17:04 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:20:48 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 313.07554200000595ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:32:54 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:36:42 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:17:04 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:20:48 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 120.93541599996388ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:36:42 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:37:04 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:20:48 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:21:14 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 50.17916699999478ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:36:42 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:37:04 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:20:48 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:21:14 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 87.79833300004248ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:37:04 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:37:41 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:21:14 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:21:47 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 130.2239169999957ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:37:04 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:37:41 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:21:14 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:21:47 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 68.04700000002049ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:37:41 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:40:05 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:21:47 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:24:14 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 113.68204100010917ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:37:41 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:40:05 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:21:47 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:24:14 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 71.68820800003596ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:40:05 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:40:41 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:24:14 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:24:48 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 103.58595800003968ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:40:05 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:40:41 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:24:14 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:24:48 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 50.46583400014788ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:40:41 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:40:52 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:24:48 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:25:01 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 86.44845799985342ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:40:41 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:40:52 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:24:48 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:25:01 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 53.38270800001919ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:40:52 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:41:35 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:25:01 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:25:42 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 60.37416599993594ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:40:52 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:41:35 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:25:01 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:25:42 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 45.876875000074506ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:41:35 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:46:15 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:25:42 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:30:18 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 53.648917000042275ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:41:35 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:46:15 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:25:42 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:30:18 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 65.46999999997206ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:46:15 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:49:41 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:30:18 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:33:47 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 105.27908300003037ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:46:15 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:49:42 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:30:18 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:33:47 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 72.31558299995959ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:49:41 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:51:24 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:33:47 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:35:28 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 80.41166700003669ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:49:42 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:51:24 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:33:47 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:35:28 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 50.47920800000429ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:51:24 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:57:32 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:35:28 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:38:53 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 113.02920800005086ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:51:24 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:57:33 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:35:28 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:38:53 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 63.85774999996647ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:57:32 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:01:55 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:38:53 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:45:20 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 70.45412499993108ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:57:33 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:01:55 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:38:53 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 18:45:20 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 57.184582999907434ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:01:55 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:19:46 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:45:20 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:03:55 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 132.03983300039545ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:01:55 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:19:46 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 18:45:20 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:03:55 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 113.72837499994785ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:19:46 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:20:14 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:03:55 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:04:23 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 82.14312500040978ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:19:46 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:20:14 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:03:55 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:04:23 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 75.08245899993926ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:20:14 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:20:44 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:04:23 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:04:50 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 90.18554199999198ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:20:14 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:20:44 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:04:23 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:04:50 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 66.00791600020602ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:20:44 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:21:04 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:04:50 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:05:12 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 119.90104100015014ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:20:44 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:21:04 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:04:50 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:05:12 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 85.64716699998826ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:21:04 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:22:52 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:05:12 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:07:00 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+error: Failed to load module file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts: SyntaxError: unknown: Missing semicolon (53:19)
+
+  51 |         if(dets.popupData.length>0)
+  52 |         {
+> 53 |             for(int i=0;i<dets.popupData.length;i++)
+     |                    ^
+  54 |             {
+  55 |                 if(dets.popupData[i].launchCount==launchCount)
+  56 |                 {.
+debug: We're missing the chunk file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts, referenced as '[object Object]'.
+debug: Target(editor) ends with cost 71.95800000010058ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:21:04 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:22:52 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:05:12 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:07:00 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+error: Failed to load module file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts: SyntaxError: unknown: Missing semicolon (53:19)
+
+  51 |         if(dets.popupData.length>0)
+  52 |         {
+> 53 |             for(int i=0;i<dets.popupData.length;i++)
+     |                    ^
+  54 |             {
+  55 |                 if(dets.popupData[i].launchCount==launchCount)
+  56 |                 {.
+debug: We're missing the chunk file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts, referenced as '[object Object]'.
+debug: Target(preview) ends with cost 29.593125000130385ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:22:52 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:22:59 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+error: Failed to load module file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts: SyntaxError: unknown: Missing semicolon (53:19)
+
+  51 |         if(dets.popupData.length>0)
+  52 |         {
+> 53 |             for(int i=0;i<dets.popupData.length;i++)
+     |                    ^
+  54 |             {
+  55 |                 if(dets.popupData[i].launchCount==launchCount)
+  56 |                 {.
+debug: We're missing the chunk file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts, referenced as '[object Object]'.
+debug: Target(editor) ends with cost 24.987167000304908ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:22:52 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:22:59 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+error: Failed to load module file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts: SyntaxError: unknown: Missing semicolon (53:19)
+
+  51 |         if(dets.popupData.length>0)
+  52 |         {
+> 53 |             for(int i=0;i<dets.popupData.length;i++)
+     |                    ^
+  54 |             {
+  55 |                 if(dets.popupData[i].launchCount==launchCount)
+  56 |                 {.
+debug: We're missing the chunk file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts, referenced as '[object Object]'.
+debug: Target(preview) ends with cost 21.671624999959022ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:22:59 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:23:29 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 73.44075000006706ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:22:59 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:23:29 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 68.49112500017509ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:23:29 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:23:31 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:07:37 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:07:40 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 111.21608299994841ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:23:29 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:23:31 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:07:37 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:07:40 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 48.48262499971315ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:23:31 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:23:42 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:07:40 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:07:51 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 77.18137500016019ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:23:31 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:23:42 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:07:40 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:07:51 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 45.295833999756724ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:23:42 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:24:15 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:07:51 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:08:24 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 104.4029580000788ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:23:42 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:24:15 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:07:51 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:08:24 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 65.48179100034758ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:24:15 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:24:42 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:08:24 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:08:49 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 101.47362500010058ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:24:15 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:24:42 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:08:24 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:08:49 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 49.06533299991861ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:24:42 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:25:08 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:08:49 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:09:17 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 103.42833300027996ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:24:42 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:25:08 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:08:49 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:09:17 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 62.259499999694526ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:25:08 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:25:23 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:09:17 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:09:32 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 96.57512499997392ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:25:08 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:25:23 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:09:17 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:09:32 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 44.790583999827504ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:25:23 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:28:52 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:09:32 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:13:01 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 65.25383299961686ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:25:23 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:28:53 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:09:32 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:13:01 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 77.54183299979195ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:28:52 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:30:59 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:13:01 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:15:08 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 137.8332919999957ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:28:53 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:30:59 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:13:01 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:15:08 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 101.83925000019372ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:30:59 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:35:54 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:15:08 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:20:02 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 130.28766699973494ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:30:59 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:35:54 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:15:08 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:20:02 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 65.96304199984297ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:35:54 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:36:37 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:20:02 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:20:45 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 98.74816699977964ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:35:54 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:36:37 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:20:02 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:20:45 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 74.22512499988079ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:36:37 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:38:05 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:20:45 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:22:09 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 119.39508299995214ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:36:37 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:38:05 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:20:45 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:22:09 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 83.09325000084937ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:38:05 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:40:45 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:22:09 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:24:49 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 118.22345900069922ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:38:05 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:40:46 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:22:09 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:24:49 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 46.8613339997828ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:40:45 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:41:51 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:24:49 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:25:59 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 90.56633300054818ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:40:46 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:41:51 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:24:49 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:25:59 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 63.95783300045878ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:41:51 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:43:57 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:25:59 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:28:04 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 166.13616599980742ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:41:51 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:43:57 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:25:59 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:28:04 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 113.43320799991488ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:43:57 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:45:18 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:28:04 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:29:23 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 88.4696249999106ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:43:57 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:45:18 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:28:04 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:29:23 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 62.03912500012666ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:45:18 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:46:04 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:29:23 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:30:13 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 69.22387499921024ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:45:18 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:46:04 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts.
+debug: Detected change: file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts. Last mtime: Sun May 01 2022 19:29:23 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228, Current mtime: Sun May 01 2022 19:30:13 GMT+0530 (India Standard Time)@4b8bcad8-6784-448a-b5cf-8bb1ecc71228
+debug: Inspect file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/prajwal/PopUpManager/assets/Scripts/PopUpManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 66.89879200048745ms.

@@ -1,0 +1,35 @@
+{
+    "popupData": [
+       {
+          "launchCount": 1,
+          "popups": [
+             {
+                "text": "1st Launch Pop-up 1"
+             },
+             {
+                "text": "1st Launch Pop-up 2"
+             }
+          ]
+       },
+       {
+          "launchCount": 3,
+          "popups": [
+             {
+                "text": "3rd Launch PopUp 1"
+             },
+             {
+                "text": "3rd Launch PopUp 2"
+             }
+          ]
+       },
+       {
+          "launchCount": 4,
+          "popups": [
+             {
+                "text": "4th Launch PopUp 1"
+             }
+          ]
+       }
+    ]
+ }
+  
